@@ -15,7 +15,7 @@ use CodeIgniter\Config\AutoloadConfig;
  * the values in this file will overwrite the framework's values.
  */
 class Autoload extends AutoloadConfig
-{
+{ 
 
 	/**
 	 * -------------------------------------------------------------------
